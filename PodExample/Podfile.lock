@@ -1,0 +1,16 @@
+PODS:
+  - FantasmoSDK (1.0.0)
+
+DEPENDENCIES:
+  - FantasmoSDK (~> 1.0.0)
+
+SPEC REPOS:
+  trunk:
+    - FantasmoSDK
+
+SPEC CHECKSUMS:
+  FantasmoSDK: 46a582a0261aafe4b18d506b593a54435b28e675
+
+PODFILE CHECKSUM: df1ae8fd49101c0d6360addd7648c94b5b5e4c3a
+
+COCOAPODS: 1.10.2
